@@ -1,4 +1,4 @@
-float x1,y1,x2,y2;
+float x1= 100,y1= 100,x2,y2;
 void setup(){
   size(400,400);
 }
